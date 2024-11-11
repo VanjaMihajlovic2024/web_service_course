@@ -1,0 +1,26 @@
+[
+  {
+    "stcmsgid":"G000000000001",
+    "stccproin":"100100"
+  },
+  {
+    "stcmsgid":"G000000000002",
+    "stccproin":"STD010-006"
+  },
+  {
+    "stcmsgid":"G000000000002",
+    "stccproin":"100100"
+  },
+  {
+    "stcmsgid":"G000000000003",
+    "stccproin":"STD000-006"
+  },
+  {
+    "stcmsgid":"G000000000004",
+    "stccproin":"STD000-001"
+  },
+  {
+    "stcmsgid":"G000000000005",
+    "stccproin":"STD000-072"
+  }
+]
